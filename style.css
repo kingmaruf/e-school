@@ -1,0 +1,116 @@
+.nav-banner{
+    background-color: #d1ebd7;
+}
+.banner h1{
+    font-weight: 800;
+    line-height: 1.5;
+}
+.banner .col-md-5{
+    line-height: 4;
+}
+
+#no-line-height{
+    line-height: 2;
+    margin-top: 30px;
+}
+.container{
+    padding-bottom: 100px;
+}
+.navbar img{
+    width: 200px;
+}
+.btn-success{
+    padding: 5px 20px;
+    border-radius: 80px;
+}
+.nav-item{
+    margin: auto 20px;;
+}
+.r-u-ready{
+    color: red;
+}
+.schedule{
+    color: #0b8728;
+}
+.statistic{
+    margin-top: 50px;
+}
+.statistic .card{
+    background-color: #ebfcf2;
+    align-items: center;
+    text-align: center;
+    border: none;
+    padding: 40px 0 10px 0;
+}
+.statistic .card:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.statistic .card img{
+    width: 30%;
+}
+.online-div h2{
+    text-align: center;
+    padding-bottom: 100px;
+    font-weight: 700;
+}
+.online-div .card img{
+    width: 90%;
+    margin: 20px;
+}
+.online-div .card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.online-div .card-footer {
+    margin-bottom: 20px;
+    background-color: white;
+    border-top: none;
+}
+.online-div .card-footer img {
+    width: 10%;
+    margin: 0%;
+}
+.card-footer .seat-no{
+    text-align: right;    
+}
+.card-body{
+    line-height: 1;
+}
+.testimonial h2{
+    text-align: center;
+    padding-bottom: 100px;
+    font-weight: 700;
+}
+.testimonial img{
+    width: 100px;
+    margin-left: 70%;
+}
+.testimonial p{
+    line-height: 2;
+}
+.last-part{
+    background-color: #282531;
+    color: white;
+    font-weight: 500;
+}
+.last-part-con{
+    padding: 50px;
+}
+footer{
+    text-align: center;
+    font-weight: 500;
+    padding: 30px;
+}
+.sad-color{
+    color: #4a4843;
+}
+@media(max-width: 800px){
+    h2{
+        padding: 0%;
+    }
+    .testimonial img{
+        margin-left: 40%;
+    }
+}
